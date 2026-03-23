@@ -1,120 +1,152 @@
 {
   "version": 1,
-  "base_track": "purpose",
+  "base_track": "purpose (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
   "base_artist": "Leo/need",
-  "createdAt": "2025-12-02T15:21:26.447826Z",
+  "createdAt": "2026-03-23T14:34:48.539036Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "A Greater Purpose",
-      "artist": "Ancient Bards",
+      "title": "On Purpose (feat. AGNEZ MO)",
+      "artist": "Chris Brown feat. AGNEZ MO",
       "has_synced": true,
-      "path": "select/01_A_Greater_Purpose_Ancient_Bards.lrc"
+      "path": "select/01_On_Purpose_(feat._AGNEZ_MO)_Chris_Brown_feat._AGNEZ_MO.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Soul Purpose",
-      "artist": "Nightmares On Wax",
-      "has_synced": false,
-      "path": "select/02_Soul_Purpose_Nightmares_On_Wax.txt"
+      "title": "On Purpose (feat. AGNEZ MO)",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/02_On_Purpose_(feat._AGNEZ_MO)_Chris_Brown.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "To Move With Purpose",
-      "artist": "The Naked and Famous",
-      "has_synced": false,
-      "path": "select/03_To_Move_With_Purpose_The_Naked_and_Famous.txt"
+      "title": "Purpose (feat. Era Istrefi)",
+      "artist": "Jonas Blue",
+      "has_synced": true,
+      "path": "select/03_Purpose_(feat._Era_Istrefi)_Jonas_Blue.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "No Purpose",
-      "artist": "Chris Travis",
+      "title": "Purpose (feat. G Herbo)",
+      "artist": "Calboy",
       "has_synced": false,
-      "path": "select/04_No_Purpose_Chris_Travis.txt"
+      "path": "select/04_Purpose_(feat._G_Herbo)_Calboy.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Purpose",
-      "artist": "John Tartaglia feat. Avenue Q Ensemble",
-      "has_synced": true,
-      "path": "select/05_Purpose_John_Tartaglia_feat._Avenue_Q_Ensemble.lrc"
+      "title": "Purpose (feat. Reaper)",
+      "artist": "Foreign Forest",
+      "has_synced": false,
+      "path": "select/05_Purpose_(feat._Reaper)_Foreign_Forest.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Purpose",
-      "artist": "John Tartaglia & Avenue Q Ensemble",
+      "title": "Purpose (feat. G Herbo)",
+      "artist": "Calboy",
       "has_synced": true,
-      "path": "select/06_Purpose_John_Tartaglia_&_Avenue_Q_Ensemble.lrc"
+      "path": "select/06_Purpose_(feat._G_Herbo)_Calboy.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Purpose (Is No Country)",
-      "artist": "Ian William Craig",
-      "has_synced": false,
-      "path": "select/07_Purpose_(Is_No_Country)_Ian_William_Craig.txt"
+      "title": "Purpose (feat. Era Istrefi)",
+      "artist": "Jonas Blue;Era Istrefi",
+      "has_synced": true,
+      "path": "select/07_Purpose_(feat._Era_Istrefi)_Jonas_Blue;Era_Istrefi.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Purpose",
-      "artist": "Justin Bieber",
+      "title": "purpose (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/08_Purpose_Justin_Bieber.lrc"
+      "path": "select/08_purpose_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Brother With a Purpose",
-      "artist": "Prince",
+      "title": "On Purpose (feat. Pitbull & 40 Cobras)",
+      "artist": "Dougie F",
       "has_synced": false,
-      "path": "select/09_Brother_With_a_Purpose_Prince.txt"
+      "path": "select/09_On_Purpose_(feat._Pitbull_&_40_Cobras)_Dougie_F.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Brother With A Purpose - Prince",
-      "artist": "Prince",
+      "title": "The Purpose (feat. Kay Cola)",
+      "artist": "Skyzoo",
       "has_synced": false,
-      "path": "select/10_Brother_With_A_Purpose_-_Prince_Prince.txt"
+      "path": "select/10_The_Purpose_(feat._Kay_Cola)_Skyzoo.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Sense of Purpose",
-      "artist": "Pretenders",
-      "has_synced": false,
-      "path": "select/11_Sense_of_Purpose_Pretenders.txt"
+      "title": "Flexing on Purpose (feat. Lil Uzi Vert, Young Thug & 21 Savage)",
+      "artist": "Ralo",
+      "has_synced": true,
+      "path": "select/11_Flexing_on_Purpose_(feat._Lil_Uzi_Vert,_Young_Thug_&_21_Savage)_Ralo.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Sense of Purpose - Live",
-      "artist": "Pretenders",
+      "title": "For This Purpose (feat. Integrity's Hosanna! Music)",
+      "artist": "Randy Rothwell",
       "has_synced": false,
-      "path": "select/12_Sense_of_Purpose_-_Live_Pretenders.txt"
+      "path": "select/12_For_This_Purpose_(feat._Integrity's_Hosanna!_Music)_Randy_Rothwell.txt"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Sinister Purpose",
-      "artist": "Creedence Clearwater Revival",
-      "has_synced": true,
-      "path": "select/13_Sinister_Purpose_Creedence_Clearwater_Revival.lrc"
+      "title": "On Purpose (feat. 40 Cobras)",
+      "artist": "Dougie F",
+      "has_synced": false,
+      "path": "select/13_On_Purpose_(feat._40_Cobras)_Dougie_F.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "With Great Purpose",
-      "artist": "Frankie Cosmos",
+      "title": "On Purpose (feat. Trouble, Rich Kidd Shad)",
+      "artist": "T.I.",
       "has_synced": true,
-      "path": "select/14_With_Great_Purpose_Frankie_Cosmos.lrc"
+      "path": "select/14_On_Purpose_(feat._Trouble,_Rich_Kidd_Shad)_T.I..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flexing on Purpose (feat. Lil Uzi Vert  & 21 Savage)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_Flexing_on_Purpose_(feat._Lil_Uzi_Vert_&_21_Savage)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sense of Purpose (feat. Third World)",
+      "artist": "Buju Banton",
+      "has_synced": false,
+      "path": "select/16_Sense_of_Purpose_(feat._Third_World)_Buju_Banton.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Glorious Purpose (feat. The Stupendium)",
+      "artist": "NerdOut",
+      "has_synced": true,
+      "path": "select/17_Glorious_Purpose_(feat._The_Stupendium)_NerdOut.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Flexing on Purpose (feat. Ralo, Young Thug & 21 Savage)",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/18_Flexing_on_Purpose_(feat._Ralo,_Young_Thug_&_21_Savage)_Lil_Uzi_Vert.lrc"
     },
     {
       "id": "petitlyrics_1",
